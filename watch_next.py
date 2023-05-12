@@ -26,5 +26,5 @@ def returnmovie():
 
 returnmovie()
 
-        
+#Let us build a system that will tell you what to watch next based on the word vector similarity of the description of movies.       
         
